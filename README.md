@@ -27,3 +27,7 @@ Utilizar padrões desnecessariamente, causam o que chamamos de Overengeneering o
 - counter_cubit
   > Criação de um contador com incremento e decremento utilizando Cubit
 - counter_bloc
+
+## Arquitetura Bloc
+
+![Bloc](screens/bloc.png)
