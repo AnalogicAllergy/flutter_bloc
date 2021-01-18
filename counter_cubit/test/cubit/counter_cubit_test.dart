@@ -1,4 +1,4 @@
-import 'package:counter_cubit/cubits/cubit/countercubit_cubit.dart';
+import 'package:counter_cubit/logic/cubits/cubit/countercubit_cubit.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:bloc_test/bloc_test.dart';
 
